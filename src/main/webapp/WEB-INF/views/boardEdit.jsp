@@ -3,7 +3,7 @@
 <%@ page session="false" %>
 <html>
     <head>
-        <title>게시판</title>
+        <title>게시판fffff</title>
         <script type="text/javascript" src="http://code.jquery.com/jquery-1.11.3.js"></script>
         <script src="//cdn.ckeditor.com/4.7.1/standard/ckeditor.js"></script>
         <script type="text/javascript">
