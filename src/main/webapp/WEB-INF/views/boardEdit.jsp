@@ -4,6 +4,8 @@
 <html>
     <head>
         <title>게시판fffff</title>
+        
+        gjhghgh
         <script type="text/javascript" src="http://code.jquery.com/jquery-1.11.3.js"></script>
         <script src="//cdn.ckeditor.com/4.7.1/standard/ckeditor.js"></script>
         <script type="text/javascript">
